@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531901839 source:d:\volodia\projects\test_task\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
